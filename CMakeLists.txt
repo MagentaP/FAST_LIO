@@ -62,8 +62,6 @@ find_package(pcl_conversions REQUIRED)
 find_package(livox_ros_driver2 REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
-find_package(util_tools REQUIRED)
-
 set(dependencies
   rclcpp
   rclcpp_components
