@@ -29,6 +29,8 @@
   <depend>pcl_conversions</depend>
   <depend>livox_ros_driver2</depend>
 
+  <depend>util_tools</depend>
+
   <exec_depend>rosidl_default_runtime</exec_depend>
   <member_of_group>rosidl_interface_packages</member_of_group>
 
